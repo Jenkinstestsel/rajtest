@@ -10,7 +10,7 @@ public class demo1 {
 //		launch the application
 		
 		 FirefoxDriver ff = new FirefoxDriver();
-		 ff.get("http://www.unionbankofindia.co.in/EMICal.aspx");
+		 ff.get("http://www.unionbankofindia.co.in/EMICalwoeuroewurowu.aspx");
 		
 		
 		 String exp_value = "134.67";
